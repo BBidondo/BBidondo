@@ -25,6 +25,12 @@
       </a>
       <br>JavaScript
     </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr>
     <td align="center" width="100">
       <a href="#">
@@ -51,12 +57,7 @@
       </a>
       <br>Express.js
     </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
-      </a>
-      <br>PostgreSQL
-    </td>
+    
   </tr>
 </table>
 
