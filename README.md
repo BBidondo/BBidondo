@@ -3,7 +3,7 @@
 ![93412e539fa658f54efd95bd5f40609d](https://user-images.githubusercontent.com/108904979/216435680-188344fb-cc0a-41fd-850e-31c4e4b61776.png)
 
 
-              ##  🌐**Languages & Tools**🌐
+                🌐**Languages & Tools**🌐
 
 <table align="center">
   <tr>
