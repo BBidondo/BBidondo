@@ -3,8 +3,7 @@
 ![93412e539fa658f54efd95bd5f40609d](https://user-images.githubusercontent.com/108904979/216435680-188344fb-cc0a-41fd-850e-31c4e4b61776.png)
 
 
-                🌐**Languages & Tools**🌐
-
+        
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -60,7 +59,9 @@
     
   </tr>
 </table>
-
+<br>
+<br>
+<br>
 
 
 ![c19401bf914871d38c64a7b63b917604](https://user-images.githubusercontent.com/108904979/216436211-aaa64ef0-31b2-4bd8-a905-09ef2d0aa374.png)
