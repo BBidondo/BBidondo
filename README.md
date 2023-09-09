@@ -30,6 +30,12 @@
       </a>
       <br>PostgreSQL
     </td>
+           <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50" alt="C++" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr>
     <td align="center" width="100">
       <a href="#">
@@ -58,7 +64,7 @@
     </td>
      <td align="center" width="100"> 
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="50" height="50" alt="ExpressJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="50" height="50" alt="React Native" />
       </a>
       <br>Express.js
     </td>
