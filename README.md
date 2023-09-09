@@ -58,7 +58,7 @@
     </td>
      <td align="center" width="100"> 
       <a href="#" >
-        <img src="[https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png)" width="50" height="50" alt="ExpressJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="50" height="50" alt="ExpressJS" />
       </a>
       <br>Express.js
     </td>
