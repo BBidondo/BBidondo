@@ -66,7 +66,7 @@
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="50" height="50" alt="React Native" />
       </a>
-      <br>Express.js
+      <br>React Native
     </td>
     
   </tr>
