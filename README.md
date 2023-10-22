@@ -87,7 +87,7 @@
 <br>
 
 
-![c19401bf914871d38c64a7b63b917604](https://user-images.githubusercontent.com/108904979/216436211-aaa64ef0-31b2-4bd8-a905-09ef2d0aa374.png)
+
 
 <!--
 **BBidondo/BBidondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
